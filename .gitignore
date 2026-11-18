@@ -1,0 +1,3 @@
+# Godot caches and local tooling
+.godot/
+.DS_Store
